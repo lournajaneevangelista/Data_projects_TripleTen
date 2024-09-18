@@ -1,4 +1,4 @@
-Business Analytics Project
+Business Analysis Project
 
 Analysis of an e-commerce company's raw transaction logs to build a coversions funnel, cohort analysis and retention rate.
 
